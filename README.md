@@ -78,14 +78,6 @@ IoT-enabled worker safety solution with real-time monitoring and emergency respo
 
 ---
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nesdan40\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nesdan40\&layout=compact\&hide_border=true)
-
----
-
 ### Currently Exploring
 
 * Advanced Retrieval Techniques
