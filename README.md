@@ -1,6 +1,6 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Nesan Daniel A
 
-=======================================================================================================================================
+
 
 Backend Engineer | AI Systems Enthusiast | Data Analytics
 
@@ -79,22 +79,6 @@ Linux-based device monitoring and inventory management system built using Qt and
 ### Smart Worker Safety Monitoring & Emergency Alert System
 
 IoT-powered worker safety platform enabling real-time monitoring and emergency response capabilities.
-
----
-
-## 📈 GitHub Statistics
-
-<p align="left">
-<a href="https://github.com/nesdan40">
-  <img src="https://github-readme-stats.vercel.app/api?username=nesdan40&show_icons=true&hide_border=true&count_private=true" />
-</a>
-</p>
-
-<p align="left">
-<a href="https://github.com/nesdan40">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesdan40&layout=compact&hide_border=true" />
-</a>
-</p>
 
 ---
 
